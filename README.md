@@ -34,4 +34,14 @@ Bar Chart with y-axis limits adjusted
 
   ![scaled-bar.png](Images/scaled-bar.png)
 
+#### Average Gross Rent in San Francisco Per Year
+
+In this section, we want to visualize the average gross rent per year to better understand the trends for rental income over time. You will visualize the average (mean) gross rent per year and visualize it as a line chart.
+
+1. Calculate the mean `gross` for each year.
+2. Visualize the mean gross rent per year as a line chart.
+
+  ![gross-rent.png](Images/gross-rent.png)
+
+
 
