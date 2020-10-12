@@ -60,6 +60,12 @@ In this section, we want to compare the average prices by neighborhood.
 2. Visualize the mean `sales_price_sqr_foot` per year with the neighborhood as a dropdown selector. Hint: Use hvplot to obtain the interactive dropdown selector for the neighborhood.
 
   ![avg-price-neighborhood.png](Images/avg-price-neighborhood.png)
+  
+  #### Top 10 Most Expensive Neighborhoods
+
+In this section, we want to figure out which neighborhoods are the most expensive. You will need to calculate the mean sale price for each neighborhood and then sort the values to obtain the top 10 most expensive neighborhoods on average. Plot the results as a bar chart.
+
+  ![top-10-expensive-neighborhoods.png](Images/top-10-expensive-neighborhoods.png)
 
 
 
