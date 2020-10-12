@@ -43,5 +43,15 @@ In this section, we want to visualize the average gross rent per year to better 
 
   ![gross-rent.png](Images/gross-rent.png)
 
+#### Average Sales Price Per Year
+
+In this section, we want to determine the average sales price per year to better understand the sales price of the rental property over time. For example, a customer will want to know if they should expect an increase or decrease in the property value over time so they can determine how long to hold the rental property. You will visualize the average (mean) `sales_price_sqr_foot` and visualize it as a bar chart.
+
+1. Calculate the mean `gross` for each year.
+2. Visualize the mean gross rent per year as a line chart.
+
+  ![average-sales.png](Images/average-sales.png)
+
+
 
 
