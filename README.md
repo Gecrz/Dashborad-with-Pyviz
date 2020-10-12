@@ -67,6 +67,19 @@ In this section, we want to figure out which neighborhoods are the most expensiv
 
   ![top-10-expensive-neighborhoods.png](Images/top-10-expensive-neighborhoods.png)
 
+#### Parallel Coordinates and Parallel Categories Analysis
+
+In this section, we will use plotly express to create parallel coordinates and parallel categories visualizations so that investors can interactively filter and explore various factors related to the sales price of the neighborhoods.
+
+Using the DataFrame of Average values per neighborhood (calculated above), create the following visualizations:
+
+1. Create a Parallel Coordinates Plot
+
+  ![parallel-coordinates.png](Images/parallel-coordinates.png)
+
+2. Create a Parallel Categories Plot
+
+  ![parallel-categories.png](Images/parallel-categories.png)
 
 
 
