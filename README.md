@@ -89,4 +89,13 @@ Remember that in order to create maps visualizations using Plotly Express, you w
 
   ![neighborhood-map.png](Images/neighborhood-map.png)
 
+### Dashboard
+
+Now that we have worked out all of the code and analysis, we will use the Panel library to build an interactive dashboard for all of the visualizations. There are no hard requirements for the layout of this dashboard, so use your own imagination and creativity!
+
+Create a new `dashboard.ipynb` for your dashboard code. Copy over the code for each visualization and place this into separate functions (1 function per visualization). This will make it easier to build and modify the layout later. Each function should return the plot figure in a format that Panel can use to plot the visualization.
+
+Sample Dashboard:
+
+  ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
