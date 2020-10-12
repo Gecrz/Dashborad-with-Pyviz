@@ -51,6 +51,15 @@ In this section, we want to determine the average sales price per year to better
 2. Visualize the mean gross rent per year as a line chart.
 
   ![average-sales.png](Images/average-sales.png)
+  
+  #### Average Prices By Neighborhood
+
+In this section, we want to compare the average prices by neighborhood.
+
+1. Group the data by year and by neighborhood and calculate the average (mean) `sales_price_sqr_foot`.
+2. Visualize the mean `sales_price_sqr_foot` per year with the neighborhood as a dropdown selector. Hint: Use hvplot to obtain the interactive dropdown selector for the neighborhood.
+
+  ![avg-price-neighborhood.png](Images/avg-price-neighborhood.png)
 
 
 
